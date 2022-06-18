@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "OOBCurve"]
+	path = OOBCurve
+	url = https://github.com/philipppro/oobcurve
+	shallow = true
+	registered = true
+[submodule "quantregRanger"]
+	path = quantregRanger
+	url = https://github.com/philipppro/quantregranger
+	shallow = true
+	registered = true

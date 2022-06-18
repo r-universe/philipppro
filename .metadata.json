@@ -1,0 +1,10 @@
+[
+  {
+    "package": "OOBCurve",
+    "oncran": true
+  },
+  {
+    "package": "quantregRanger",
+    "oncran": true
+  }
+]
