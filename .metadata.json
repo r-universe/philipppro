@@ -1,10 +1,22 @@
 [
   {
+    "package": "measures",
+    "oncran": true
+  },
+  {
     "package": "OOBCurve",
     "oncran": true
   },
   {
     "package": "quantregRanger",
+    "oncran": true
+  },
+  {
+    "package": "tuneRanger",
+    "oncran": true
+  },
+  {
+    "package": "varImp",
     "oncran": true
   }
 ]
