@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "measures"]
-	path = measures
-	url = https://github.com/philipppro/measures
 [submodule "OOBCurve"]
 	path = OOBCurve
 	url = https://github.com/philipppro/oobcurve
+[submodule "measures"]
+	path = measures
+	url = https://github.com/philipppro/measures
 [submodule "quantregRanger"]
 	path = quantregRanger
 	url = https://github.com/philipppro/quantregranger
