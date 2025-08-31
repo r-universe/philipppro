@@ -13,7 +13,7 @@
 	url = https://github.com/philipppro/quantregranger
 [submodule "tuneRanger"]
 	path = tuneRanger
-	url = https://github.com/philipppro/tuneranger
+	url = https://github.com/cran/tuneRanger
 [submodule "varImp"]
 	path = varImp
 	url = https://github.com/philipppro/varimp
